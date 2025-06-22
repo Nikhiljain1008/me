@@ -49,7 +49,7 @@ export function Hero() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.8, delay: 0.2 }}
           >
-            Hi, I'm <span className="gradient-text">Babusha Santosh Kolhe</span>
+            Hi, I'm <span className="gradient-text">Nikhil Nandlal Jain</span>
           </motion.h1>
           
           <motion.p 
@@ -58,7 +58,7 @@ export function Hero() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.8, delay: 0.4 }}
           >
-            CS Student & ML/Flutter Developer crafting intelligent solutions with elegant code
+            CS Student with strong understanding of C++, Multithreading & AIML/Flutter Development crafting intelligent solutions with elegant code
           </motion.p>
           
           <motion.div 

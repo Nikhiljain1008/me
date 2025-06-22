@@ -24,7 +24,7 @@ export const projects: Project[] = [
       'ESP32': 'bg-purple-500/20 text-purple-300',
       'Bluetooth': 'bg-cyan-500/20 text-cyan-300'
     },
-    githubUrl: 'https://github.com/nikhiljain/ae900',
+    githubUrl: 'https://github.com/Nikhiljain1008/app_csv',
     hasDemo: true,
     type: 'flutter'
   },
@@ -40,7 +40,7 @@ export const projects: Project[] = [
       'CMake': 'bg-yellow-500/20 text-yellow-300',
       'Memory Mgmt': 'bg-blue-500/20 text-blue-300'
     },
-    githubUrl: 'https://github.com/nikhiljain/custom-stl',
+    githubUrl: 'https://github.com/Nikhiljain1008/STL_From_Scratch',
     hasDemo: true,
     type: 'cpp'
   },
@@ -56,7 +56,7 @@ export const projects: Project[] = [
       'GIS': 'bg-purple-500/20 text-purple-300',
       'AWS': 'bg-orange-500/20 text-orange-300'
     },
-    githubUrl: 'https://github.com/nikhiljain/geo-clean',
+    githubUrl: 'https://github.com/Nikhiljain1008/Geo_Clean',
     hasDemo: true,
     type: 'web'
   },
@@ -72,7 +72,7 @@ export const projects: Project[] = [
       'CNN': 'bg-purple-500/20 text-purple-300',
       'Gemini API': 'bg-cyan-500/20 text-cyan-300'
     },
-    githubUrl: 'https://github.com/nikhiljain/healthify',
+    githubUrl: 'https://github.com/Nikhiljain1008/Healthify---Diabetes-ML-and-Chatbot',
     hasDemo: true,
     type: 'ml'
   },
@@ -88,7 +88,7 @@ export const projects: Project[] = [
       'Feature Fusion': 'bg-green-500/20 text-green-300',
       'Kaggle': 'bg-purple-500/20 text-purple-300'
     },
-    githubUrl: 'https://github.com/nikhiljain/cancer-detection',
+    githubUrl: 'https://www.kaggle.com/code/nikhiljain1008/ddms-breast-cancer-predictions-using-8-models',
     hasDemo: true,
     type: 'ml'
   }
